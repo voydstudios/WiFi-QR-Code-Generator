@@ -1,6 +1,7 @@
 # wifi_qrcode.py
+# Version 1.0
+# Written by Anthony Carlson 6/1/2022
 
-# import sys
 import pyqrcode
 from PIL import Image
 
