@@ -14,7 +14,7 @@ def main():
 ssid = input("Enter SSID: ")
 password = input("Enter WiFi Password: ")
 security = input("Security Type (WPA or WEP): ")
-extension=".png"
+extension = ".png"
 output = "".join([ssid,extension])
 
 main()
