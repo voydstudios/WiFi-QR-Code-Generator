@@ -1,4 +1,7 @@
 # WiFi-QR-Code-Generator
+## Built With
+- Python 3
+## Author
 **Anthony Carlson**
 - [Profile] (https://github.com/voydstudios)
 - [LinkedIn] (https://www.linkedin.com/in/acarlson/)
@@ -10,7 +13,7 @@
 - Run the program by typing python3 wifi_qrcode.py
 - Enter your SSID
 - Enter your Password
-- Enter Security type
+- Enter Security Type
 - PNG file is created with the WiFi SSID name entered
 
 
